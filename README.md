@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: *He/They*
 - 🌱 I’m currently learning full stack development using node.js
-- 👯 I’m looking to collaborate on open source projects that involve data science or web technologies  
+- 👯 I’m looking to collaborate on open source projects that involve data science or web technologies 
+- ![github stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd)
+### Technologies I have worked with
 <img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white&style=flat" />  
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=flat" /> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
