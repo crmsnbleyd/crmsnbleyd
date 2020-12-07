@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 welcome to my Github Profile
 
 <!--
 **crmsnbleyd/crmsnbleyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: *He/They*
+- 🌱 I’m currently learning full stack development using node.js
+- 👯 I’m looking to collaborate on open source projects that involve data science or web technologies  
+<img src="https://img.shields.io/badge/Scala-#DC322F?logo=scala&logoColor=white&style=flat" />
