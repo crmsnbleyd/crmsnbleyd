@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: *He/They*
 - 🌱 I’m currently learning full stack development using node.js
 - 👯 I’m looking to collaborate on open source projects that involve data science or web technologies  
-<img src="https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white&style=flat" />
+<img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white&style=flat" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />  
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
