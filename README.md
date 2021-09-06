@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   
+![github stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd)
