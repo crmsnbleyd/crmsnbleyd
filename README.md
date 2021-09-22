@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: *He/They*
-- 🌱 I’m currently learning systems programming using rust
-- 👯 I’m looking to collaborate on open source projects that involve data science or computational linguistics
+- 😄 Pronouns: *They/Them*
+- 🌱 I’m currently learning the ins and outs of scalaz
+- 👯 I’m looking to collaborate on projects and papers that involve data science or computational linguistics
 ### Technologies I have worked with
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 <img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white&style=flat" />  
