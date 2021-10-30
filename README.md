@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white&style=flat" />  
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=flat" /> 
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat" />
+<img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
   
