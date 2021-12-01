@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: *They/Them*
-- 🌱 I’m currently learning the ins and outs of scalaz
+- 🌱 I’m currently learning the ins and outs of Haskell
 - 👯 I’m looking to collaborate on projects and papers that involve data science or computational linguistics
 ### Technologies I have worked with
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
