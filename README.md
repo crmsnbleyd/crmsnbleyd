@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-585c60?logo=wordpress&logoColor=white&style=flat" />
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd&count_private=true&theme=tokyonight&showicons=true)]()
