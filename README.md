@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects and papers that involve computational linguistics and would love to contribute to Common Lisp or Clojure FOSS projects
 ### Technologies I have worked with
 <img alt="Clojure" src="https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=green&style=flat"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
