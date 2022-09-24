@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=flat" />
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-585c60?logo=wordpress&logoColor=white&style=flat" />
-![github stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd&count_private=true&theme=tokyonight&showicons=true)]()
