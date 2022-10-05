@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: *They/Them*
 - 🌱 I’m currently learning the ins and outs of Common Lisp and AWS
 - 👯 I’m looking to collaborate on projects and papers that involve computational linguistics and would love to contribute to Common Lisp or Clojure FOSS projects
-- 🌐 Check out my (website)[https://crmsnbleyd.github.io]!
+- 🌐 Check out my [website](https://crmsnbleyd.github.io)!
 ### Technologies I have worked with
 <img alt="Clojure" src="https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=green&style=flat"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=flat" />
