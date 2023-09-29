@@ -1,4 +1,4 @@
-### Hello onlookers 🥰, welcome to my Github profile.
+### Hello onlookers, welcome to my Github profile.
 
 <!--
 **crmsnbleyd/crmsnbleyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
