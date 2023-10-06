@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: *They/Them*
 - 🌱 I’m currently learning the ins and outs of Ops+Cloud work and contributing to [GNU Guix](https://guix.gnu.org/) [packaging](https://mail.gnu.org/archive/cgi-bin/namazu.cgi?query=Andrew+Jose&submit=Search%21&idxname=guix-patches&max=20&result=normal&sort=score)
 - 👯 I would love to contribute to Common Lisp or Clojure FOSS projects
 - 🌐 Check out my [website](https://drew.idktellme.com)!
