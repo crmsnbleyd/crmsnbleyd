@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ### Some stats for fun
 These may not be accurate, and they do not include any professional work done in a private repository (I use mostly python, bash, and YAML at work)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crmsnbleyd&count_private=true&theme=tokyonight&showicons=true)]() [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crmsnbleyd&theme=transparent)]()
