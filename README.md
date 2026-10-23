@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌐 Check out my [website](https://drewsh.com)!
-- 🏠 Self-hosted git: <https://git.drewsh.com/crmsnbleyd>
 - 🤝 Codeberg: <https://codeberg.org/crmsnbleyd/>
 - 🏢👨‍💻 Work github, though completely on private repos (the activity tracker is very green!): <https://github.com/arnav-meesho>
